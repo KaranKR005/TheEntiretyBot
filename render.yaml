@@ -4,7 +4,7 @@ services:
     buildCommand: npm install
     startCommand: node main.js
     envVars:
-      - key: DISCORD_TOKEN
+      - key: ODI3ODc0MjAwMzk0OTI0MDgy.YGhX7g.4tBhpWUd7Gy-h8TvDOMY-C9UbYQ
         scope: instance
         from: secret
-        name: DISCORD_TOKEN
+        name: ODI3ODc0MjAwMzk0OTI0MDgy.YGhX7g.4tBhpWUd7Gy-h8TvDOMY-C9UbYQ
