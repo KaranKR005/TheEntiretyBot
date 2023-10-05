@@ -1,6 +1,6 @@
 services:
-  - name: discord-bot
-    env: node
+  - type: web
+    name: discord-bot
     buildCommand: npm install
     startCommand: node main.js
     envVars:
