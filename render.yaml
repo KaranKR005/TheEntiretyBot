@@ -1,0 +1,6 @@
+services:
+  - name: The EntiretyBot
+    env: node
+    buildCommand: npm install
+    startCommand: node main.js
+      TOKEN: "ODI3ODc0MjAwMzk0OTI0MDgy.YGhX7g.4tBhpWUd7Gy-h8TvDOMY-C9UbYQ"
