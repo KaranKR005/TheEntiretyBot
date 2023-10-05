@@ -1,6 +1,7 @@
 services:
-  - name: The EntiretyBot
+  - name: discord-bot
     env: node
     buildCommand: npm install
     startCommand: node main.js
+    envVars:
       TOKEN: "ODI3ODc0MjAwMzk0OTI0MDgy.YGhX7g.4tBhpWUd7Gy-h8TvDOMY-C9UbYQ"
