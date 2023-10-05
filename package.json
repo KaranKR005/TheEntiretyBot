@@ -35,6 +35,9 @@
     "node-superfetch": "^0.2.3",
     "openai": "^3.3.0",
     "reconlx": "^1.4.511",
-    "weather-js": "^2.0.0"
+    "weather-js": "^2.0.0",
+    "yt-search": "^2.10.4",
+    "ytdl-core": "^4.11.5",
+    "ytsr": "^3.8.4"
   }
 }
