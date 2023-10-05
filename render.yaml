@@ -7,4 +7,4 @@ services:
       - key: ODI3ODc0MjAwMzk0OTI0MDgy.YGhX7g.4tBhpWUd7Gy-h8TvDOMY-C9UbYQ
         scope: instance
         from: secret
-        name: ODI3ODc0MjAwMzk0OTI0MDgy.YGhX7g.4tBhpWUd7Gy-h8TvDOMY-C9UbYQ
+        name: DISCORD_TOKEN
